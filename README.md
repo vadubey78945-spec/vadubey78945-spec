@@ -13,7 +13,7 @@
 - 🔭 I’m currently building **Data-Driven Solutions & Predictive Models**
 - 🌱 I’m currently diving deep into **Deep Learning & Generative AI**
 - 🎓 B.Sc. Mathematics | AI & ML Certified (Excellence in Evaluation)
-- 💬 Ask me about **Python, Machine Learning, and Data Analytics**
+- 🐍 Building **ML solutions using Python.**
 - 📫 Reach out to me for: **Remote Internships, AI/ML Roles, and Collaborations**
 
 ### 🛠️ Tech Stack & Tools
